@@ -1,0 +1,6 @@
+{
+	"ip":"skyblockMCnetwork.aternos.me",
+	"port": "12366",
+	"name": "ServerBot",
+	"auto-night-skip":"true"
+}
